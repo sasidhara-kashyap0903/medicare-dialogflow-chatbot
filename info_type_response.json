@@ -1,0 +1,11 @@
+{
+  "richContent": [
+    [
+      {
+        "actionLink": "https://www.example.com/",
+        "title": "Text",
+        "type": "info"
+      }
+    ]
+  ]
+}
